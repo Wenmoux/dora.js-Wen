@@ -3,10 +3,10 @@ description: 目前已有的插件作者id
 ---
 
 ## id汇总
-```
-linroid    redrain_12345    solistx    lyydhy    chegege    1024.js         wlor0623    toubutu    qingy1     pandeng2911308    cinhoo    drakeet    barryliu   yongteng      vst_c i_can   youthlin   cccjjxl    hamster8848     acdzh       overbaby   matrixzw   zackq         z1307617461   bin.
-air.
-```
+    ```
+    linroid    redrain_12345    solistx    lyydhy    chegege    1024.js         wlor0623    toubutu    qingy1     pandeng2911308    cinhoo    drakeet    barryliu   yongteng      vst_c i_can   youthlin   cccjjxl    hamster8848     acdzh       overbaby   matrixzw   zackq         z1307617461   bin.
+    air.
+    ```
 
 ## id分类(主)
 
