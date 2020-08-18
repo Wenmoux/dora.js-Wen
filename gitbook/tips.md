@@ -5,7 +5,7 @@ description: dora.js 食用教程
 # 食用教程
 
 {% hint style="info" %}
-本文始终介绍最新的版本版本特性
+本文介绍dora.js的基础操作
 {% endhint %}
 
 ### 如何订阅插件作者
@@ -15,14 +15,14 @@ description: dora.js 食用教程
 - 打开 dora.js,进入主页 第二栏**订阅** 界面，点击右上角管理，再点击加号，输入 **chegege** (举例)
 - 复制别人分享的分享作者文字，并打开 dora.js 也可.例
 
-```bash
-$~chegege$
-订阅@chegege的扩展:
-1. 复制这段文字
-2. 打开 Dora.js 应用
-https://dorajs.com/user/chegege
+    ```bash
+    $~chegege$
+    订阅@chegege的扩展:
+    1. 复制这段文字
+    2. 打开 Dora.js 应用
+    https://dorajs.com/user/chegege
 
-```
+    ```
 
 ### 如何安装插件
 
@@ -34,16 +34,16 @@ https://dorajs.com/user/chegege
 - 在已订阅作者 id 页（见订阅作者说明）页，点击作者头像进去安装对应插件。
 - 复制别人魔法分享插件的文字并打开 dora.js，会提示安装
 
-```bash
-$dorajs-acfun$
+    ```bash
+    $dorajs-acfun$
 
-安装 Acfun:
-1. 复制这段文字
-2. 打开 Dora.js
+    安装 Acfun:
+    1. 复制这段文字
+    2. 打开 Dora.js
 
-https://dorajs.com/addon/dorajs-acfun
+    https://dorajs.com/addon/dorajs-acfun
 
-```
+    ```
 
 ### 如何获取更多作者 id
 
